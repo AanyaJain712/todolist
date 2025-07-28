@@ -5,4 +5,12 @@
 //  Created by Aanya Jain on 7/28/25.
 //
 
-import Foundation
+import SwiftUI
+import SwiftData
+
+@main
+struct toDoListApp: App {
+    var body: some Scene {
+        WindowGroup
+    }
+}
